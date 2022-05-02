@@ -5,6 +5,7 @@ This repo will share my strategy to win the [second place](https://courses.grain
 
 This is a strategy game based on exhilarating concepts like mining and economics. 
 The game map looks like this:
+
 ![img.png](img.png)
 
 The game is a turn based mining competition played on an NxN square set of tiles which is considered the Game Board. There are 4 types of tiles on the board:
