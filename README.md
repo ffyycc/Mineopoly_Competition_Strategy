@@ -32,7 +32,7 @@ There are two players per game, one with a red robot and one with a blue robot. 
 
 **NULL** indicates that you would like to do nothing on your turn. You will need to return null for multiple turns in a row to become fully charged while standing on a recharge tile.
 
-## What my strategy do?
+## What my strategy do
 
 My strategy is mixed by 3 parts. 
 
